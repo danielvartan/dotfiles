@@ -24,9 +24,9 @@ A centralized repository for managing my themes.
 
 - [Gnome-Look.org](https://www.gnome-look.org/browse/)
 - [Gnomintosh](https://github.com/jothi-prasath/gnomintosh)
-- [MacTahoe GTK Theme](https://github.com/vinceliuice/MacTahoe-gtk-theme)
+- [**MacTahoe GTK Theme**](https://github.com/vinceliuice/MacTahoe-gtk-theme)
 - [Ulauncher Color Themes](https://gist.github.com/gornostal/02a232e6e560da7946c053555ced6cce)
-- [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+- [**WhiteSur GTK Theme**](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 ### Backgrounds
 
