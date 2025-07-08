@@ -1,4 +1,5 @@
 # https://github.blog/open-source/git/working-with-submodules/
+# git submodule update --remote --merge
 
 [submodule "cursors"]
 	path = cursors
@@ -18,3 +19,6 @@
 [submodule "ulauncher"]
 	path = ulauncher
 	url = https://github.com/danielvartan/ulauncher
+[submodule "luts"]
+	path = luts
+	url = https://github.com/danielvartan/luts

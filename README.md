@@ -9,33 +9,6 @@
 
 A centralized repository for managing my themes.
 
-## Installation
-
-### Requirements
-
-- [Extension Manager](https://github.com/mjakeman/extension-manager)
-- [User Themes Extension](https://extensions.gnome.org/extension/19/user-themes/)
-- [GNOME Tweaks](https://itsfoss.com/gnome-tweak-tool/)
-
-### Theme
-
-See [Catppuccin GTK Theme](https://github.com/catppuccin/gtk) (Color: Mauve).
-
-### Icons
-
-See [MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme) (Color: Grey Dark).
-
-### Cursors
-
-See [Catppuccin Cursors Theme](https://github.com/catppuccin/cursors) (Color: Dark).
-
-### Wallpapers
-
-1. Copy the contents of the `wallpapers` in `$HOME/.local/share/backgrounds/`.
-2. Open *Settings*, go to *Appearance*, and choose your preferred wallpaper.
-
-> See the [Resources](#resources) section.
-
 ## Resources
 
 ### Systems
