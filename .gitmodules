@@ -1,8 +1,14 @@
 # https://github.blog/open-source/git/working-with-submodules/
 
+[submodule "cursors"]
+	path = cursors
+	url = https://github.com/catppuccin/cursors
 [submodule "ghostty"]
 	path = ghostty
 	url = https://github.com/danielvartan/ghostty
+[submodule "gtk"]
+	path = gtk
+	url = https://github.com/catppuccin/gtk
 [submodule "icons"]
 	path = icons
 	url = https://github.com/vinceliuice/MacTahoe-icon-theme
@@ -12,9 +18,3 @@
 [submodule "ulauncher"]
 	path = ulauncher
 	url = https://github.com/danielvartan/ulauncher
-[submodule "cursors"]
-	path = cursors
-	url = https://github.com/catppuccin/cursors
-[submodule "gtk"]
-	path = gtk
-	url = https://github.com/catppuccin/gtk
