@@ -9,6 +9,38 @@
 
 A centralized repository for managing my themes.
 
+## Inspirations
+
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Catppuccin GTK Theme](https://github.com/catppuccin/gtk)
+- [MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme)
+
+## Installation
+
+### Requirements
+
+- [Extension Manager](https://github.com/mjakeman/extension-manager)
+- [User Themes Extension](https://extensions.gnome.org/extension/19/user-themes/)
+- [GNOME Tweaks](https://itsfoss.com/gnome-tweak-tool/)
+
+### Theme
+
+See [Catppuccin GTK Theme](https://github.com/catppuccin/gtk) (Color: Mauve).
+
+### Icons
+
+1. Copy the content folder into `$HOME/.icons/` (create the folder if it doesn't exist).
+2. Open *GNOME Tweaks*, go to *Appearance*, and select `MacTahoe-grey-dark` or `MacTahoe-Dark-grey` in *Icons*, *Shell*, and *Legacy Applications*.
+
+### Cursors
+
+See [Catppuccin Cursors Theme](https://github.com/catppuccin/cursors) (Color: Dark).
+
+### Wallpapers
+
+1. Copy the contents of the `wallpapers` in `$HOME/.local/share/backgrounds/`.
+2. Open *Settings*, go to *Appearance*, and choose your preferred wallpaper.
+
 ## Resources
 
 ### Systems
@@ -17,26 +49,27 @@ A centralized repository for managing my themes.
 - [Dracula](https://draculatheme.com/)
 - [Everforest](https://everforest.vercel.app/)
 - [Nord](https://www.nordtheme.com/)
-- [**Rosé Pine**](https://rosepinetheme.com/)
+- [Rosé Pine](https://rosepinetheme.com/)
 - [Tokyo Night](https://github.com/tokyo-night)
 
 ### Themes
 
 - [Gnome-Look.org](https://www.gnome-look.org/browse/)
 - [Gnomintosh](https://github.com/jothi-prasath/gnomintosh)
-- [**MacTahoe GTK Theme**](https://github.com/vinceliuice/MacTahoe-gtk-theme)
+- [MacTahoe GTK Theme](https://github.com/vinceliuice/MacTahoe-gtk-theme)
 - [Ulauncher Color Themes](https://gist.github.com/gornostal/02a232e6e560da7946c053555ced6cce)
-- [**WhiteSur GTK Theme**](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+- [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
-### Backgrounds
+### Wallpapers
 
+- [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers/)
 - [512 Pixels](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - [BasicAppleGuy](https://basicappleguy.com/)
 - [Linux Dynamic Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
 
 ### Guidelines
 
-- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Material Design](https://m2.material.io/design/guidelines-overview)
 
 ### Utils
