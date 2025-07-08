@@ -13,12 +13,15 @@
 [submodule "icons"]
 	path = icons
 	url = https://github.com/vinceliuice/MacTahoe-icon-theme
-[submodule "starship"]
-	path = starship
-	url = https://github.com/danielvartan/starship
-[submodule "ulauncher"]
-	path = ulauncher
-	url = https://github.com/danielvartan/ulauncher
 [submodule "luts"]
 	path = luts
 	url = https://github.com/danielvartan/luts
+[submodule "starship"]
+	path = starship
+	url = https://github.com/danielvartan/starship
+[submodule "sublime"]
+	path = sublime
+	url = https://github.com/danielvartan/sublime
+[submodule "ulauncher"]
+	path = ulauncher
+	url = https://github.com/danielvartan/ulauncher

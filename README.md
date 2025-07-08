@@ -1,4 +1,4 @@
-# themes
+# config
 
 <!-- badges: start -->
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Repo%20Status-Active-10D810.svg)](https://www.repostatus.org/#active)
@@ -7,11 +7,11 @@
 
 ## Overview
 
-A centralized repository for managing my themes.
+A central repository for my themes and configuration files.
 
 ## Resources
 
-### Systems
+### Design Systems
 
 - [Catppuccin](https://catppuccin.com/)
 - [Dracula](https://draculatheme.com/)
@@ -23,7 +23,6 @@ A centralized repository for managing my themes.
 ### Themes
 
 - [Gnome-Look.org](https://www.gnome-look.org/browse/)
-- [Gnomintosh](https://github.com/jothi-prasath/gnomintosh)
 - [MacTahoe GTK Theme](https://github.com/vinceliuice/MacTahoe-gtk-theme)
 - [Ulauncher Color Themes](https://gist.github.com/gornostal/02a232e6e560da7946c053555ced6cce)
 - [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
@@ -39,7 +38,7 @@ A centralized repository for managing my themes.
 ### Guidelines
 
 - [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Material Design](https://m2.material.io/design/guidelines-overview)
+- [Google's Material Design](https://m2.material.io/design/guidelines-overview)
 
 ### Utils
 
