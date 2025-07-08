@@ -9,12 +9,6 @@
 
 A centralized repository for managing my themes.
 
-## Inspirations
-
-- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Catppuccin GTK Theme](https://github.com/catppuccin/gtk)
-- [MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme)
-
 ## Installation
 
 ### Requirements
@@ -40,6 +34,8 @@ See [Catppuccin Cursors Theme](https://github.com/catppuccin/cursors) (Color: Da
 
 1. Copy the contents of the `wallpapers` in `$HOME/.local/share/backgrounds/`.
 2. Open *Settings*, go to *Appearance*, and choose your preferred wallpaper.
+
+> See [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers/).
 
 ## Resources
 
