@@ -1,0 +1,3 @@
+[submodule "starship"]
+	path = starship
+	url = https://github.com/danielvartan/starship
