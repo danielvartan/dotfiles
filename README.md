@@ -23,8 +23,7 @@ See [Catppuccin GTK Theme](https://github.com/catppuccin/gtk) (Color: Mauve).
 
 ### Icons
 
-1. Copy the content folder into `$HOME/.icons/` (create the folder if it doesn't exist).
-2. Open *GNOME Tweaks*, go to *Appearance*, and select `MacTahoe-grey-dark` or `MacTahoe-Dark-grey` in *Icons*, *Shell*, and *Legacy Applications*.
+See [MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme) (Color: Grey Dark).
 
 ### Cursors
 
@@ -35,7 +34,7 @@ See [Catppuccin Cursors Theme](https://github.com/catppuccin/cursors) (Color: Da
 1. Copy the contents of the `wallpapers` in `$HOME/.local/share/backgrounds/`.
 2. Open *Settings*, go to *Appearance*, and choose your preferred wallpaper.
 
-> See [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers/).
+> See the [Resources](#resources) section.
 
 ## Resources
 
@@ -59,6 +58,7 @@ See [Catppuccin Cursors Theme](https://github.com/catppuccin/cursors) (Color: Da
 ### Wallpapers
 
 - [Catppuccin Wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers/)
+- [Rosé Pine Wallpapers](https://github.com/rose-pine/wallpapers)
 - [512 Pixels](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - [BasicAppleGuy](https://basicappleguy.com/)
 - [Linux Dynamic Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)

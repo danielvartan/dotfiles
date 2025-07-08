@@ -1,3 +1,11 @@
+# https://github.blog/open-source/git/working-with-submodules/
+
+[submodule "ghostty"]
+	path = ghostty
+	url = https://github.com/danielvartan/ghostty
+[submodule "MacTahoe-icon-theme"]
+	path = icons
+	url = https://github.com/vinceliuice/MacTahoe-icon-theme
 [submodule "starship"]
 	path = starship
 	url = https://github.com/danielvartan/starship
