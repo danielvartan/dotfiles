@@ -20,9 +20,6 @@
 [submodule "gtk"]
 	path = gtk
 	url = https://github.com/danielvartan/catppuccin-gtk
-[submodule "icons"]
-	path = icons
-	url = https://github.com/vinceliuice/MacTahoe-icon-theme
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/danielvartan/nvim
