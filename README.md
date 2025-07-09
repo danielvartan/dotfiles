@@ -7,7 +7,7 @@
 
 ## Overview
 
-A central repository for configuration files.
+A central repository for my configuration files.
 
 ## Resources
 
