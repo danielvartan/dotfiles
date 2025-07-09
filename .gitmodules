@@ -1,5 +1,16 @@
-# https://github.blog/open-source/git/working-with-submodules/
-# git submodule update --remote --merge
+# # Help
+#
+# - Add: git submodule add https://github.com/<user>/<repo> <repo>
+# - Update: git submodule update --remote --merge
+#
+# - Remove:
+# https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule
+#
+# ## Resources:
+#
+# - https://github.blog/open-source/git/working-with-submodules/
+# - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+
 
 [submodule "cursors"]
 	path = cursors
@@ -13,6 +24,9 @@
 [submodule "icons"]
 	path = icons
 	url = https://github.com/vinceliuice/MacTahoe-icon-theme
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/danielvartan/nvim
 [submodule "starship"]
 	path = starship
 	url = https://github.com/danielvartan/starship
