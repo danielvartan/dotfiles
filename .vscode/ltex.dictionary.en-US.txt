@@ -1,0 +1,11 @@
+Catppuccin
+Everforest
+Nord
+MacTahoe
+Ulauncher
+WhiteSur
+BasicAppleGuy
+Utils
+ColorKit
+Coolors
+RealFaviconGenerator

@@ -1,4 +1,4 @@
-# config
+# dotfiles
 
 <!-- badges: start -->
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://img.shields.io/badge/Repo%20Status-Active-10D810.svg)](https://www.repostatus.org/#active)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-A central repository for my themes and configuration files.
+A central repository for configuration files.
 
 ## Resources
 
@@ -19,6 +19,11 @@ A central repository for my themes and configuration files.
 - [Nord](https://www.nordtheme.com/)
 - [Rosé Pine](https://rosepinetheme.com/)
 - [Tokyo Night](https://github.com/tokyo-night)
+
+### Design Guidelines
+
+- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Google's Material Design](https://m2.material.io/design/guidelines-overview)
 
 ### Themes
 
@@ -34,11 +39,6 @@ A central repository for my themes and configuration files.
 - [512 Pixels](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - [BasicAppleGuy](https://basicappleguy.com/)
 - [Linux Dynamic Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
-
-### Guidelines
-
-- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Google's Material Design](https://m2.material.io/design/guidelines-overview)
 
 ### Utils
 
