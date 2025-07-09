@@ -11,9 +11,6 @@
 # - https://github.blog/open-source/git/working-with-submodules/
 # - https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
-[submodule "cursors"]
-	path = cursors
-	url = https://github.com/catppuccin/cursors
 [submodule "ghostty"]
 	path = ghostty
 	url = https://github.com/danielvartan/ghostty
