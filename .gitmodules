@@ -17,6 +17,9 @@
 [submodule "ghostty"]
 	path = ghostty
 	url = https://github.com/danielvartan/ghostty
+[submodule "gtk"]
+	path = gtk
+	url = https://github.com/danielvartan/catppuccin-gtk
 [submodule "icons"]
 	path = icons
 	url = https://github.com/vinceliuice/MacTahoe-icon-theme
