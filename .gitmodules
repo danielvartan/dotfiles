@@ -32,6 +32,9 @@
 [submodule "sublime"]
 	path = sublime
 	url = https://github.com/danielvartan/sublime
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/danielvartan/tmux
 [submodule "ulauncher"]
 	path = ulauncher
 	url = https://github.com/danielvartan/ulauncher
