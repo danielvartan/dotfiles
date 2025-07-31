@@ -9,6 +9,14 @@
 
 A central repository for my configuration files.
 
+## Usage
+
+Use [GNU Stow](https://www.gnu.org/software/stow/) to manage and symlink your configuration files to their appropriate locations. For a detailed walkthrough, watch this [TypeCraft video](https://www.youtube.com/watch?v=NoFiYOqnC4o).
+
+```bash
+stow <package>
+```
+
 ## Resources
 
 ### Design Systems
