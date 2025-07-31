@@ -1,0 +1,39 @@
+[
+	{
+		"keys": ["ctrl+k", "ctrl+t"],
+		"command": "title_case"
+	},
+	{
+	  "keys": ["ctrl+k", "ctrl+i"],
+		"command": "title_case"
+	},
+	{
+		"keys": ["ctrl+d"],
+		"command": "run_macro_file",
+		"args": {
+			"file": "res://Packages/Default/Delete Line.sublime-macro"}
+		},
+	{
+		"keys": ["ctrl+shift+g"],
+		"command": "exec",
+		"args": {
+	    "shell_cmd": "'./_config/git_push.sh'",
+	    "working_dir": "/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian"
+	  }
+	},
+	{
+    "keys": ["ctrl+alt+r"],
+    "command": "terminus_open",
+    "args": {
+      "cwd": "${file_path:${folder}}"
+    }
+	},
+	{
+		"keys": ["ctrl+shift+v"],
+	  "command": "markdown_preview",
+	  "args": {
+	      "target": "browser",
+	      "parser": "github",
+	   }
+  }
+]

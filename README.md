@@ -7,11 +7,29 @@
 
 ## Overview
 
-A central repository for my configuration files.
+This repository contains my personal configuration files and scripts for various applications and tools I use on my systems.
+
+## Installation
+
+You will need [git](https://git-scm.com/) and [GNU Stow](https://www.gnu.org/software/stow/). On Arch Linux, you can install Stow with:
+
+```bash
+sudo pacman -S stow
+```
+
+After installing Stow, clone this repository into your `$HOME` directory:
+
+```bash
+git clone https://github.com/danielvartan/dotfiles ~/.dotfiles
+```
 
 ## Usage
 
-Use [GNU Stow](https://www.gnu.org/software/stow/) to manage and symlink your configuration files to their appropriate locations. For a detailed walkthrough, watch this [TypeCraft video](https://www.youtube.com/watch?v=NoFiYOqnC4o).
+Run the `stow` command to symlink everything or just the package you want:
+
+```bash
+stow */ # Everything (the '/' ignores the README)
+```
 
 ```bash
 stow <package>
@@ -56,3 +74,8 @@ stow <package>
 - [**Figma Color Wheel**](https://www.figma.com/color-wheel/)
 - [Material Design Material Palette Generator](https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors)
 - [RealFaviconGenerator](https://realfavicongenerator.net)
+
+### Dotfiles
+
+- [typecraft](https://github.com/typecraft-dev/dotfiles)
+- [chris@machine](https://github.com/ChristianChiarulli/machfiles)

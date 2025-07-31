@@ -1,0 +1,37 @@
+{
+    "com.github.mathe00.ulauncher-plugin-text-tools": {
+        "id": "com.github.mathe00.ulauncher-plugin-text-tools",
+        "url": "https://github.com/mathe00/ulauncher-plugin-text-tools",
+        "updated_at": "2025-07-15T04:24:30.827501",
+        "last_commit": "6ef0a205b7d64f001c61716afa972569098ad52b",
+        "last_commit_time": "2025-01-30T10:16:06"
+    },
+    "com.github.ulauncher.ulauncher-emoji": {
+        "id": "com.github.ulauncher.ulauncher-emoji",
+        "url": "https://github.com/Ulauncher/ulauncher-emoji",
+        "updated_at": "2025-07-15T04:24:40.871335",
+        "last_commit": "af5806625e361ca4519b99755ccf0a557c1e894a",
+        "last_commit_time": "2025-06-03T19:05:58"
+    },
+    "com.github.alchemistake.git_code_launch": {
+        "id": "com.github.alchemistake.git_code_launch",
+        "url": "https://github.com/alchemistake/git_code_launch",
+        "updated_at": "2025-07-15T04:25:12.329881",
+        "last_commit": "d39320f7e47a0b3b97bcab4166503956b2015b8e",
+        "last_commit_time": "2024-10-04T14:53:21"
+    },
+    "com.github.eckhoff42.ulauncher-bluetooth-quick-connect": {
+        "id": "com.github.eckhoff42.ulauncher-bluetooth-quick-connect",
+        "url": "https://github.com/Eckhoff42/Ulauncher-Bluetooth-quick-connect",
+        "updated_at": "2025-07-15T04:36:06.250025",
+        "last_commit": "2cb1d85cdfa870888e3eeda733b63467b0966ad1",
+        "last_commit_time": "2022-05-10T15:18:43"
+    },
+    "com.github.sergius02.ulauncher-colorconverter": {
+        "id": "com.github.sergius02.ulauncher-colorconverter",
+        "url": "https://github.com/sergius02/ulauncher-colorconverter",
+        "updated_at": "2025-07-19T04:19:56.162855",
+        "last_commit": "2d5e2bc17e89f1f1dc561f73e68ea574e0be844a",
+        "last_commit_time": "2020-12-06T20:59:43"
+    }
+}

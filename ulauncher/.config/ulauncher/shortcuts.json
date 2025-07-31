@@ -1,0 +1,52 @@
+{
+    "e67768dd-9ec6-45db-9c9a-2b70faed866b": {
+        "id": "e67768dd-9ec6-45db-9c9a-2b70faed866b",
+        "name": "Google Search",
+        "keyword": "gg",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1752561778.9902904
+    },
+    "b34751d6-6dad-49ac-b8d4-1a2bf25eac47": {
+        "id": "b34751d6-6dad-49ac-b8d4-1a2bf25eac47",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "https://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1752561778.990324
+    },
+    "ff0c84b4-10b1-458b-8c52-0495f60134cf": {
+        "id": "ff0c84b4-10b1-458b-8c52-0495f60134cf",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1752561778.9903355
+    },
+    "ef0de1df-5957-4e5b-bf13-2fdef19f995f": {
+        "id": "ef0de1df-5957-4e5b-bf13-2fdef19f995f",
+        "name": "GitHub",
+        "keyword": "gh",
+        "cmd": "https://github.com/%s",
+        "icon": "~/Downloads/Octicons-mark-github.svg.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1752564659.4062595
+    },
+    "0f9feaa6-2405-4991-9fd9-a8decc781fd3": {
+        "id": "0f9feaa6-2405-4991-9fd9-a8decc781fd3",
+        "name": "My GitHub",
+        "keyword": "mygh",
+        "cmd": "https://github.com/danielvartan/%s",
+        "icon": "~/Downloads/Octicons-mark-github.svg.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1752564680.7896478
+    }
+}
