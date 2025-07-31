@@ -1,0 +1,6 @@
+options(radian.auto_indentation = TRUE)
+options(radian.completion_adding_spaces_around_equals = TRUE)
+options(radian.complete_while_typing = TRUE)
+options(radian.highlight_matching_bracket = TRUE)
+options(radian.indent_lines = TRUE)
+options(radian.tab_size = 2)

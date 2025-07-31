@@ -1,1 +1,1 @@
-{"selector": "source.r, text.tex.latex.rsweave, text.html.markdown.rmarkdown, source.c++.rcpp", "keyfiles": ["DESCRIPTION"], "target": "ride_exec", "cancel": {"kill": true}, "variants": []}
+{"cancel": {"kill": true}, "selector": "source.r, text.tex.latex.rsweave, text.html.markdown.rmarkdown, source.c++.rcpp", "keyfiles": ["DESCRIPTION"], "target": "ride_exec", "variants": []}
