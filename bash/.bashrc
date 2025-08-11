@@ -42,3 +42,4 @@ alias r="radian"
 alias firefox='flatpak run org.mozilla.firefox'
 alias fd='fdfind'
 alias neovim='nvim'
+alias positron='/usr/share/positron/positron'

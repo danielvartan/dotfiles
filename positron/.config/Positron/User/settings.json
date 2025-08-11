@@ -1,0 +1,166 @@
+// Settings imported from Visual Studio Code
+{
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.guides.bracketPairs": "active",
+	"editor.language.brackets": [
+		[
+			"[",
+			"]"
+		],
+		[
+			"(",
+			")"
+		],
+		[
+			"{",
+			"}"
+		],
+		[
+			"::::",
+			"::::"
+		],
+		[
+			":::::",
+			":::::"
+		],
+		[
+			"::::::",
+			"::::::"
+		]
+	],
+	"editor.language.colorizedBracketPairs": [
+		[
+			"[",
+			"]"
+		],
+		[
+			"(",
+			")"
+		],
+		[
+			"{",
+			"}"
+		],
+		[
+			"::::",
+			"::::"
+		],
+		[
+			":::::",
+			":::::"
+		],
+		[
+			"::::::",
+			"::::::"
+		]
+	],
+	"editor.rulers": [
+		80
+	],
+	"editor.tabSize": 2,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"files.defaultLanguage": "r",
+	"files.trimTrailingWhitespace": true,
+	"github.copilot.enable": {
+		"*": true,
+		"quarto": false,
+		"markdown": true,
+		"rmarkdown": true,
+		"yaml": true,
+		"tex": true
+	},
+	"jupyter.interactiveWindow.creationMode": "perFile",
+	"r.bracketedPaste": true,
+	"r.debugger.timeouts.startup": 10000,
+	"r.libPaths": [
+		"/home/danielvartan/R/x86_64-pc-linux-gnu-library/4.4",
+		"/usr/local/lib/R/site-library",
+		"/usr/lib/R/site-library",
+		"/usr/lib/R/library"
+	],
+	"r.lsp.debug": true,
+	"r.plot.useHttpgd": true,
+	"r.removeLeadingComments": true,
+	"r.rterm.linux": "/home/danielvartan/.local/bin/radian",
+	"r.session.data.pageSize": 100,
+	"r.session.data.rowLimit": 1000,
+	"r.session.levelOfObjectDetail": "Detailed",
+	"workbench.editor.openSideBySideDirection": "down",
+	"workbench.panel.defaultLocation": "right",
+	"workbench.startupEditor": "none",
+	"quarto.render.previewType": "external",
+	"quarto.visualEditor.spellingDictionary": "en_US",
+	"git.confirmSync": false,
+	"workbench.editorAssociations": {
+		"*.copilotmd": "vscode.markdown.preview.editor",
+		"*.pdf": "default"
+	},
+	"latex-workshop.latex.recipe.default": "latexmk (lualatex)",
+	"[latex]": {
+		"editor.wordWrap": "on"
+	},
+	"[markdown]": {
+		"editor.wordWrap": "on"
+	},
+	"[rmarkdown]": {
+		"editor.wordWrap": "on"
+	},
+	"[rmd]": {
+		"editor.wordWrap": "on"
+	},
+	"github.copilot.chat.codesearch.enabled": true,
+	"cSpell.enabledFileTypes": {
+		"Rmd": false,
+		"RMarkdown": false,
+		"tex": true,
+		"R": true,
+		"markdown": false,
+		"Quarto": true
+	},
+	"cSpell.language": "en-US",
+	"ltex.language": "en-US",
+	"ltex.enabled": [
+		"bibtex",
+		"context",
+		"context.tex",
+		"html",
+		"latex",
+		"markdown",
+		"org",
+		"quarto",
+		"rmarkdown",
+		"restructuredtext",
+		"rsweave"
+	],
+	"ltex.additionalRules.enablePickyRules": true,
+	"workbench.editor.enablePreview": false,
+	"gitlens.hovers.enabled": false,
+	"shiny.previewType": "external",
+	"github.copilot.chat.editor.temporalContext.enabled": true,
+	"github.copilot.chat.edits.temporalContext.enabled": true,
+	"custom-language-properties": {
+		"netlogo.comments.lineComment": ";"
+	},
+	"workbench.editor.empty.hint": "hidden",
+	"editor.lightbulb.enabled": "off",
+	"editor.fontFamily": "'NotoMono Nerd Font', 'monospace'",
+	"terminal.integrated.fontFamily": "NotoMono Nerd Font",
+	"terminal.integrated.sendKeybindingsToShell": true,
+	"workbench.colorTheme": "Catppuccin Mocha",
+	"workbench.iconTheme": "catppuccin-mocha",
+	"workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+	"workbench.preferredLightColorTheme": "Catppuccin Mocha",
+	"workbench.preferredHighContrastLightColorTheme": "Catppuccin Mocha",
+	"workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+	"window.autoDetectColorScheme": true,
+	"github.copilot.nextEditSuggestions.enabled": true,
+	"files.associations": {
+		"renv.lock": "json"
+	},
+	"editor.minimap.enabled": true,
+	"positron.assistant.enable": true,
+	"positron.assistant.toolDetails.enable": true,
+	"positron.assistant.showTokenUsage.enable": true,
+	"positron.assistant.gitIntegration.enable": true
+}
