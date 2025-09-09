@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=ApsimX
+Type=Application
+Icon=/home/danielvartan/.var/app/io.github.fabrialberio.pinapp/data/user-icons/apsim logo32.png
+Exec=apsim

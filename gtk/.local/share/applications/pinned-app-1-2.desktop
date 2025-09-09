@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=NetLogo 3D 7.0.0
+Type=Application
+Icon=/opt/netlogo-7-0-0/icons/NetLogo3D.png
+Exec=/opt/netlogo-7-0-0/bin/NetLogo3D %f
+Comment=

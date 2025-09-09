@@ -4,7 +4,7 @@
 	"rulers": [[80, "solid"]],
 	"shift_tab_unindent": true,
 	"font_face": "NotoMono Nerd Font",
-	"font_size": 13,
+	"font_size": 14,
 	"show_encoding": true,
 
 	// The number of spaces a tab is considered equal to
@@ -17,9 +17,15 @@
 	"index_files": false,
 	"trim_trailing_white_space_on_save": true,
 	"spell_check": true,
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/LanguagePortuguese/Portuguese (Brazilian).dic",
 	"added_words":
 	[
 		"sindemia"
+	],
+	"ignored_words":
+	[
+		"40h",
+		"tank",
+		"think",
 	],
 }

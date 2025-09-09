@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Filen
+Exec=env DESKTOPINTEGRATION=1 /home/danielvartan/AppImages/filen.appimage --no-sandbox %U
+TryExec=/home/danielvartan/AppImages/filen.appimage
+Icon=/home/danielvartan/AppImages/.icons/filen.png
+Terminal=false
+Type=Application
+
+StartupWMClass=Filen
+
+Comment=Filen Desktop Client
+Categories=Utility;
+
+X-AppImage-Version=3.0.47

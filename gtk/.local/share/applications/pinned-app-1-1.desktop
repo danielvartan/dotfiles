@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=HubNet Client 7.0.0
+Type=Application
+Icon=/opt/netlogo-7-0-0/icons/HubNetClient.png
+Exec=/opt/netlogo-7-0-0/bin/HubNetClient %f
+Comment=

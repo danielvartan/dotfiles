@@ -76,5 +76,17 @@
     "key": "alt+\\",
     "command": "-editor.action.inlineSuggest.trigger",
     "when": "editorTextFocus && !editorHasSelection && !inlineSuggestionsVisible"
+  },
+  {
+    "key": "ctrl+alt+i",
+    "command": "editor.action.reindentselectedlines"
+  },
+  {
+    "key": "ctrl+`",
+    "command": "workbench.action.positronConsole.focusConsole"
+  },
+  {
+    "key": "ctrl+k f",
+    "command": "-workbench.action.positronConsole.focusConsole"
   }
 ]
