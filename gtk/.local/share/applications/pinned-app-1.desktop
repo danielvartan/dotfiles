@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NetLogo 7.0.0
+Type=Application
+Icon=/opt/netlogo-7-0-0/icons/NetLogo.png
+Exec=/opt/netlogo-7-0-0/bin/NetLogo %U
+Comment=A multi-agent programmable modeling environment.
+MimeType=application/x-nlogox;
+StartupWMClass=org-nlogo-app-App
