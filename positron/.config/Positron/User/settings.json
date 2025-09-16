@@ -108,4 +108,5 @@
   "workbench.panel.defaultLocation": "right",
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
+  "diffEditor.renderSideBySide": false,
 }
