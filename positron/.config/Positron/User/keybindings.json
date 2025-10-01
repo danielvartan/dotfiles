@@ -88,5 +88,15 @@
   {
     "key": "ctrl+k f",
     "command": "-workbench.action.positronConsole.focusConsole"
+  },
+  {
+    "key": "ctrl+shift+enter",
+    "command": "r.sourceCurrentFile",
+    "when": "editorLangId == 'r'"
+  },
+  {
+    "key": "ctrl+shift+enter",
+    "command": "-r.sourceCurrentFile",
+    "when": "!isRPackage && editorLangId == 'r'"
   }
 ]

@@ -109,4 +109,9 @@
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
   "diffEditor.renderSideBySide": false,
+  "python.createEnvironment.trigger": "off",
+  "[nlogox]": {
+    "editor.wordWrap": "on",
+    "editor.inlineSuggest.enabled": true
+  },
 }
