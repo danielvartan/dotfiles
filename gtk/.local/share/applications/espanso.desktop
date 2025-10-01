@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Espanso
+Exec=espanso launcher
+Icon=/home/danielvartan/.var/app/io.github.fabrialberio.pinapp/data/user-icons/icon.png
+Type=Application
+Categories=Utility;
