@@ -30,9 +30,12 @@ finder() {
   fi
 }
 
-# 1Password -----
+# Exports -----
 
 export SSH_AUTH_SOCK=~/.1password/agent.sock
+export JAVA_HOME=/usr/lib/jvm/default
+export NETLOGO_HOME=/opt/netlogo-7-0-0
+export NETLOGO_EXE=/opt/netlogo-7-0-0/bin/NetLogo
 
 # Alias -----
 
@@ -42,4 +45,7 @@ alias r="radian"
 alias firefox='flatpak run org.mozilla.firefox'
 alias fd='fdfind'
 alias neovim='nvim'
+alias netlogo='/opt/netlogo-7-0-0/bin/NetLogo'
+alias NetLogo='/opt/netlogo-7-0-0/bin/NetLogo'
 alias positron='/usr/share/positron/positron'
+alias sublime='/opt/sublime_text/sublime_text'
