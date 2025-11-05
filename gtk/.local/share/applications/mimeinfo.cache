@@ -1,3 +1,17 @@
 [MIME Cache]
+application/pdf=com.google.Chrome.desktop;
+application/rdf+xml=com.google.Chrome.desktop;
+application/rss+xml=com.google.Chrome.desktop;
 application/x-bsearch=pinned-app-1-3.desktop;
 application/x-nlogox=pinned-app-1.desktop;
+application/xhtml+xml=com.google.Chrome.desktop;
+application/xhtml_xml=com.google.Chrome.desktop;
+application/xml=com.google.Chrome.desktop;
+image/gif=com.google.Chrome.desktop;
+image/jpeg=com.google.Chrome.desktop;
+image/png=com.google.Chrome.desktop;
+image/webp=com.google.Chrome.desktop;
+text/html=com.google.Chrome.desktop;
+text/xml=com.google.Chrome.desktop;
+x-scheme-handler/http=com.google.Chrome.desktop;
+x-scheme-handler/https=com.google.Chrome.desktop;

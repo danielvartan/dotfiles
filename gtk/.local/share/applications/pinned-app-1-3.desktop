@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=BehaviorSearch 1.10
 Type=Application
-Icon=/opt/netlogo-7-0-0/icons/Behaviorsearch.png
-Exec=/opt/netlogo-7-0-0/bin/Behaviorsearch %f
+Icon=/opt/netlogo-7-0-1/icons/Behaviorsearch.png
+Exec=/opt/netlogo-7-0-1/bin/Behaviorsearch %f
 Comment=Tool to help with automating the exploration of agent-based models (ABMs).
 MimeType=application/x-bsearch;
 StartupWMClass=bsearch.fx.MainGUI

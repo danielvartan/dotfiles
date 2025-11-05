@@ -27,13 +27,5 @@
     "args": {
       "cwd": "${file_path:${folder}}"
     }
-	},
-	{
-		"keys": ["ctrl+shift+v"],
-	  "command": "markdown_preview",
-	  "args": {
-	      "target": "browser",
-	      "parser": "github",
-	   }
-  }
+	}
 ]

@@ -1,3 +1,0 @@
-return {
-  "leafo/magick",
-}
